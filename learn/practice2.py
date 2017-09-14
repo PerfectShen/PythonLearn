@@ -1,6 +1,8 @@
 #!usr/bin/python
 #-*- coding:utf-8 -*-
 
+'''  有一个列表：[1, 2, 3, 4…n]，n=20；请编写代码打印如下规律的输出： '''
+
 alist = []
 widthStr = raw_input('请输入宽度:')
 listWidthStr = raw_input('请输入数组的宽度:')
