@@ -1,17 +1,19 @@
 # python 抓取今日头条图集
 
 ## 获取spider运行权限
-工程下载下来之后获取到spider文件夹的权限
+工程下载下来之后获取到spider文件夹的权限,
+username为当前电脑登录用户名
 ```
 cd /Users/{username}/PythonLearn/spider
 ```
-username为当前电脑登录用户名
+
 
 ## 运行脚本
+开始抓包
 ```
 python spider.py
 ```
-开始抓包
+
 
 ## 异常情况
 
